@@ -1,5 +1,5 @@
 FILES = \
-	~/.config/alacritty/alacritty.yml\
+	~/.config/alacritty/alacritty.yml \
 	~/.config/nvim/init.vim
 
 DEST = ./
